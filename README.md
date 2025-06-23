@@ -5,9 +5,17 @@ Sistem Informasi Akademik (SIAKAD) adalah aplikasi berbasis web yang dikembangka
 ---
 
 ## 🖼️ Tampilan
-> ![Dashboard Admin](screenshots/dashboard-admin.png)
-> ![Dashboard Guru](screenshots/dashboard-guru.png)
-> ![Dashboard Siswa](screenshots/Dashboard-siswa.png)
+1. **Tampilan Login:**
+> ![Dashboard Admin](screenshots/login.png)
+
+2. **Tampilan Dashboard Admin:**
+> ![Dashboard Admin](screenshots/dashboard_admin.png)
+
+3. **Tampilan Dashboard Guru:**
+> ![Dashboard Guru](screenshots/dashboard_guru.png)
+
+4. **Tampilan Dashboard Siswa:**
+> ![Dashboard Siswa](screenshots/dashboard_siswa.png)
 
 ---
 
